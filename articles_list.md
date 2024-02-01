@@ -5,7 +5,6 @@
 1. [Implement Stable Diffusion with Keras and TensorFlow](https://www.vultr.com/de/docs/implement-stable-diffusion-with-keras-and-tensorflow/)
 1. [Text Guided Image to Image Generation with Stable Diffusion](https://www.vultr.com/de/docs/text-guided-image-to-image-generation-with-stable-diffusion/)
 1. [How to Use Gradient Accumulation to Overcome GPU Memory Limitations](https://www.vultr.com/docs/how-to-use-gradient-accumulation-to-overcome-gpu-memory-limitations/)
-
 1. [How to Use Hugging Face Transformer Models](https://docs.vultr.com/how-to-use-hugging-face-transformer-models-on-vultr-cloud-gpu)
 1. [How to Fine-tune a Hugging Face Transformer Model](https://docs.vultr.com/fine-tune-a-hugging-face-transformer-model-on-vultr-cloud-gpu) 
 1. [How to Build an Inference API Using Hugging Face Transformers and FastAPI](https://docs.vultr.com/how-to-build-an-inference-api-using-hugging-face-transformers-and-fastapi)

@@ -43,9 +43,10 @@
 1. [Fundamental Operations Within a Conda Environment](https://docs.vultr.com/fundamental-operations-within-a-conda-environment)
 
 1. [How to Install NVIDIA Cuda Toolkit on Ubuntu](https://docs.vultr.com/how-to-install-nvidia-cuda-toolkit-on-ubuntu-22-04)
+1. Original Draft - [How to Install NVIDIA Cuda Toolkit on Ubuntu](https://github.com/ahron1/vultr_original_drafts/blob/main/install_nvidia_cuda_toolkit_ubuntu.md)
+1. [How to Install NVIDIA cuDNN on Ubuntu](https://docs.vultr.com/how-to-install-nvidia-cudnn-on-ubuntu-22-04)
 1. [How to Install TensorFlow on Ubuntu](https://docs.vultr.com/how-to-install-tensorflow-on-ubuntu-22-04-79647)
 1. [How to Install PyTorch on Ubuntu](https://docs.vultr.com/how-to-install-pytorch-on-ubuntu-22-04)
-1. [How to Install NVIDIA cuDNN on Ubuntu](https://docs.vultr.com/how-to-install-nvidia-cudnn-on-ubuntu-22-04)
 1. [How to Install Miniconda on Ubuntu](https://docs.vultr.com/how-to-install-miniconda-on-ubuntu-22-04)
 1. [How to Install Anaconda on Ubuntu](https://docs.vultr.com/how-to-install-anaconda-on-ubuntu-22-04)
 

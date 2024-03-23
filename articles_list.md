@@ -1,5 +1,11 @@
 # List of Published Articles
 
+## Machine Learning Basics
+
+1. [Deep Dive into Important AI ML Python Packages](https://docs.vultr.com/deep-dive-into-important-ai-ml-python-packages)
+1. [Fundamental Operations Within a Conda Environment](https://docs.vultr.com/fundamental-operations-within-a-conda-environment)
+1. [Explore Foundational Machine Learning Concepts](https://docs.vultr.com/explore-foundational-machine-learning-concepts)
+
 ## Using Machine Learning Software
 
 1. [Implement Stable Diffusion with Keras and TensorFlow](https://www.vultr.com/de/docs/implement-stable-diffusion-with-keras-and-tensorflow/)
@@ -38,9 +44,6 @@
 1. [Install and Use TMUX](https://www.vultr.com/docs/how-to-install-and-use-tmux/) (Joint Author)
 
 ## Installing Machine Learning Tools
-
-1. [Deep Dive into Important AI ML Python Packages](https://docs.vultr.com/deep-dive-into-important-ai-ml-python-packages)
-1. [Fundamental Operations Within a Conda Environment](https://docs.vultr.com/fundamental-operations-within-a-conda-environment)
 
 1. [How to Install NVIDIA Cuda Toolkit on Ubuntu](https://docs.vultr.com/how-to-install-nvidia-cuda-toolkit-on-ubuntu-22-04)
 1. Original Draft - [How to Install NVIDIA Cuda Toolkit on Ubuntu](https://github.com/ahron1/vultr_original_drafts/blob/main/install_nvidia_cuda_toolkit_ubuntu.md)

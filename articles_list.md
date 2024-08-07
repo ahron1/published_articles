@@ -25,6 +25,16 @@
 1. [Introduction to Chroma, the Vector Database – II](https://docs.google.com/document/d/e/2PACX-1vSNRGgZWDWuiClfk0QxzDSbqKB_RUCK_40GGCWGM6G1u3ZlXcp8L2jrC_LwoRSlWY1aOexpG9VtsKWU/pub)
 1. [Multimodal Embeddings in Chroma, the Vector Database](https://docs.google.com/document/d/e/2PACX-1vQAdQsuzRIYkoe6NZrK1SvDFly852gNhe1h3A-OguHQtKZs4SXw3bSKb9Qe_cpT1SeUBQca736owWkA/pub)
 
+## Series on Quantization of AI Models (Pending Publication)
+
+1. [Reducing the Size of AI Models](https://docs.google.com/document/d/e/2PACX-1vSkQy05-pDPnBC9Qv_nlUyeJ_69wpWs4VNoFbG4roI10709eUwWdvBr5n_vEQJbKKQ9k89aDQtlMacS/pub)
+1. [Quantizing the Weights of AI Models](https://docs.google.com/document/d/e/2PACX-1vRzbwPQQlQQJWF1ne94l2H-ocq3Erl8KAfRGFGwTWx00MGju8vk7zxrpFGeOYWXTJ5s1MGOwJCfcA4v/pub)
+1. [Quantizing Neural Network Models](https://docs.google.com/document/d/e/2PACX-1vT4bObsiliZaU8L-x75pc6kj8IFVULlwFNai5hnHqqxHHPqpUeFyT-9Zk9CaSeot850nSZoeg62rVhB/pub)
+1. [Different Approaches to Quantization](https://docs.google.com/document/d/e/2PACX-1vT5AIQEXEymHiJkFHounl42IlyKvFZQ6FHGTawH5bKJsOxQOZJXfSBZ1wfn4Twlj0Cl4rVhdyxnsN-d/pub)
+1. [Extreme Quantization: 1-bit AI Models](https://docs.google.com/document/d/e/2PACX-1vQi6H2UmY-o2pvfEcrpbCj-jJAcQ-XiNrkvdo-ypPVBtTITwUmYJ42ZdXBcNmhzJuqhSpQICjnXKHmO/pub)
+1. [Understanding 1-bit Large Language Models](https://docs.google.com/document/d/e/2PACX-1vQIIToxtJW0JpSNDvwK9lWmFQsTuITfrPJHVFW4mB6vJUFI7aV_kKH7t9c7xRnEZohKNECm1U1olyr_/pub)
+1. [Understanding 1.58-bit Large Language Models](https://docs.google.com/document/d/e/2PACX-1vR-tB3xZKV9gCELocmWfmILyCm6nQkcZbUnHNsEX26J0ZY3nAgv5vYXkct8FMEUOwGqRM72onzpiwOQ/pub)
+
 ## Query Analysis and Planning in PostgreSQL
 
 1. [Introduction to Using the EXPLAIN Command in PostgreSQL](https://airbyte.com/blog/introduction-to-using-the-explain-command-in-postgresql)]

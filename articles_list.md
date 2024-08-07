@@ -25,7 +25,7 @@
 1. [Introduction to Chroma, the Vector Database – II](https://docs.google.com/document/d/e/2PACX-1vSNRGgZWDWuiClfk0QxzDSbqKB_RUCK_40GGCWGM6G1u3ZlXcp8L2jrC_LwoRSlWY1aOexpG9VtsKWU/pub)
 1. [Multimodal Embeddings in Chroma, the Vector Database](https://docs.google.com/document/d/e/2PACX-1vQAdQsuzRIYkoe6NZrK1SvDFly852gNhe1h3A-OguHQtKZs4SXw3bSKb9Qe_cpT1SeUBQca736owWkA/pub)
 
-## Series on Quantization of AI Models (Pending Publication)
+## Quantization of AI Models (Pending Publication)
 
 1. [Reducing the Size of AI Models](https://docs.google.com/document/d/e/2PACX-1vSkQy05-pDPnBC9Qv_nlUyeJ_69wpWs4VNoFbG4roI10709eUwWdvBr5n_vEQJbKKQ9k89aDQtlMacS/pub)
 1. [Quantizing the Weights of AI Models](https://docs.google.com/document/d/e/2PACX-1vRzbwPQQlQQJWF1ne94l2H-ocq3Erl8KAfRGFGwTWx00MGju8vk7zxrpFGeOYWXTJ5s1MGOwJCfcA4v/pub)

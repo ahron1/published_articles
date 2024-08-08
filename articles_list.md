@@ -15,10 +15,13 @@
 1. [How to Fine-tune a Hugging Face Transformer Model](https://docs.vultr.com/fine-tune-a-hugging-face-transformer-model-on-vultr-cloud-gpu) 
 1. [How to Build an Inference API Using Hugging Face Transformers and FastAPI](https://docs.vultr.com/how-to-build-an-inference-api-using-hugging-face-transformers-and-fastapi)
 
+## Understanding Embeddings 
+
+1. [AI Vectors Explained, Part 1: Image and Multimodal Embeddings](http://airbyte.com/blog/image-and-multimodal-embeddings)
+1. [AI Vectors Explained, Part 2: Word and Sentence Embeddings](https://airbyte.com/blog/word-and-sentence-embeddings)
+
 ## Embeddings and Vector Databases (Pending Publication)
 
-1. [Deep Dive into Embeddings - Part I](https://docs.google.com/document/d/e/2PACX-1vQ97us-cfNyM3oQqJnX87b84HQ3AmhNijUWoWd4urFl4ew6F7nLPTytOxrD4srRtfOBysdoB3K0zzjL/pub)
-1. [Deep Dive into Embeddings - Part II](https://docs.google.com/document/d/e/2PACX-1vRvRUvBXqkLM-FtJ6fOhnefv9i6OHt-Ktk52qOzjN0TubeKSGshk8Q-xOBFojj5gNW6YoVYtxU8sq6s/pub)
 1. [Introduction to the Quadrant Vector Database - Part I](https://docs.google.com/document/d/e/2PACX-1vTzEvYPfzXxsJxvV3F4ZcueB5XS6hKIj231Ie6YFuNh4nOcpViM5XHbWGmiMAtMAUaSnniLPSCRYFWg/pub)
 1. [Introduction to the Quadrant Vector Database - Part II](https://docs.google.com/document/d/e/2PACX-1vQL81-BonXf8I7uve30G7MONv1lrqn1GKzU7LtaSToBT3NjYgsMtlUeeVrLn2R6LJQ6tc0dXJ7miy5b/pub)
 1. [Introduction to Chroma, the Vector Database – I](https://docs.google.com/document/d/e/2PACX-1vSHAw4YLy_ZKWeETLn44Ph3bB5zGnmkwFafcBxjV-72tPjiTWgHaXB4pa1Xs1Ic34bTPQg0RjbttIgb/pub)

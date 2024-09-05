@@ -93,8 +93,9 @@
 
 ## Server Admin
 
+### Security
+
 1. [Getting Started with the pf Firewall](https://www.vultr.com/de/docs/getting-started-with-the-pf-firewall/)
-1. [Install the PostGIS Extension for Postgres](https://www.vultr.com/docs/how-to-install-the-postgis-extension-for-postgresql/)
 1. [Harden SSH Access Using Advanced OpenSSH Features](https://docs.vultr.com/how-to-harden-server-ssh-access-using-advanced-openssh-features)
 
 ### Using Linux Tools
@@ -102,3 +103,6 @@
 1. [An Introductory Guide to Screen](https://www.vultr.com/docs/an-introductory-guide-to-screen/)
 1. [Install and Use TMUX](https://www.vultr.com/docs/how-to-install-and-use-tmux/) (Joint Author)
 
+### Installations
+
+1. [Install the PostGIS Extension for Postgres](https://www.vultr.com/docs/how-to-install-the-postgis-extension-for-postgresql/)

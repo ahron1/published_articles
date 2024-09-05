@@ -64,6 +64,8 @@
 
 ## Data Science
 
+### Basic Concepts
+
 1. [Confidence vs Prediction Intervals: Understanding the Difference](https://www.datacamp.com/blog/confidence-intervals-vs-prediction-intervals)
 
 ### Data Analysis Using PostgreSQL

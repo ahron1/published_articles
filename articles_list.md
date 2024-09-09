@@ -28,21 +28,21 @@
 1. [How to Fine-tune a Hugging Face Transformer Model](https://docs.vultr.com/fine-tune-a-hugging-face-transformer-model-on-vultr-cloud-gpu) 
 1. [How to Build an Inference API Using Hugging Face Transformers and FastAPI](https://docs.vultr.com/how-to-build-an-inference-api-using-hugging-face-transformers-and-fastapi)
 
-### Quantization of AI Models (Pending Publication)
+### Quantization of AI Models (Self Published)
 
-1. [Reducing the Size of AI Models](https://docs.google.com/document/d/e/2PACX-1vSkQy05-pDPnBC9Qv_nlUyeJ_69wpWs4VNoFbG4roI10709eUwWdvBr5n_vEQJbKKQ9k89aDQtlMacS/pub)
-1. [Quantizing the Weights of AI Models](https://docs.google.com/document/d/e/2PACX-1vRzbwPQQlQQJWF1ne94l2H-ocq3Erl8KAfRGFGwTWx00MGju8vk7zxrpFGeOYWXTJ5s1MGOwJCfcA4v/pub)
-1. [Quantizing Neural Network Models](https://docs.google.com/document/d/e/2PACX-1vT4bObsiliZaU8L-x75pc6kj8IFVULlwFNai5hnHqqxHHPqpUeFyT-9Zk9CaSeot850nSZoeg62rVhB/pub)
-1. [Different Approaches to Quantization](https://docs.google.com/document/d/e/2PACX-1vT5AIQEXEymHiJkFHounl42IlyKvFZQ6FHGTawH5bKJsOxQOZJXfSBZ1wfn4Twlj0Cl4rVhdyxnsN-d/pub)
-1. [Extreme Quantization: 1-bit AI Models](https://docs.google.com/document/d/e/2PACX-1vQi6H2UmY-o2pvfEcrpbCj-jJAcQ-XiNrkvdo-ypPVBtTITwUmYJ42ZdXBcNmhzJuqhSpQICjnXKHmO/pub)
-1. [Understanding 1-bit Large Language Models](https://docs.google.com/document/d/e/2PACX-1vQIIToxtJW0JpSNDvwK9lWmFQsTuITfrPJHVFW4mB6vJUFI7aV_kKH7t9c7xRnEZohKNECm1U1olyr_/pub)
-1. [Understanding 1.58-bit Large Language Models](https://docs.google.com/document/d/e/2PACX-1vR-tB3xZKV9gCELocmWfmILyCm6nQkcZbUnHNsEX26J0ZY3nAgv5vYXkct8FMEUOwGqRM72onzpiwOQ/pub)
+1. [Reducing the Size of AI Models](https://medium.com/@arunnanda/reducing-the-size-of-ai-models-4ab4cfe5887a)
+1. [Quantizing the Weights of AI Models](https://medium.com/@arunnanda/quantizing-the-weights-of-ai-models-39f489455194)
+1. [Quantizing Neural Network Models](https://medium.com/@arunnanda/quantizing-neural-network-models-8ce49332f1d3)
+1. [Different Approaches to Quantization](https://medium.com/@arunnanda/different-approaches-to-quantization-e3fac905bd5a)
+1. [Extreme Quantization: 1-bit AI Models](https://medium.com/@arunnanda/extreme-quantization-1-bit-ai-models-07169ee29d96)
+1. [Understanding 1-bit Large Language Models](https://medium.com/@arunnanda/understanding-1-bit-large-language-models-a33cc6acabb3)
+1. [Understanding 1.58-bit Large Language Models](https://medium.com/@arunnanda/understanding-1-58-bit-large-language-models-88373010974a)
 
 ## PostgreSQL
 
 ### Query Analysis and Planning in PostgreSQL
 
-1. [Introduction to Using the EXPLAIN Command in PostgreSQL](https://airbyte.com/blog/introduction-to-using-the-explain-command-in-postgresql)]
+1. [Introduction to Using the EXPLAIN Command in PostgreSQL](https://airbyte.com/blog/introduction-to-using-the-explain-command-in-postgresql)
 1. [How to Read PostgreSQL Query Plans](https://airbyte.com/blog/how-to-read-postgresql-query-plans)
 1. [Important Nodes of the Query Plan Tree](https://airbyte.com/blog/important-nodes-of-the-query-plan-tree-in-postgresql)
 1. [PostgreSQL Query Plans for Reading Tables](https://airbyte.com/blog/postgresql-query-plans-for-reading-tables)
@@ -75,7 +75,7 @@
 
 ## Machine Learning
 
-### Machine Learning Basics
+### Basics
 
 1. [Deep Dive into Important AI ML Python Packages](https://docs.vultr.com/deep-dive-into-important-ai-ml-python-packages)
 1. [Fundamental Operations Within a Conda Environment](https://docs.vultr.com/fundamental-operations-within-a-conda-environment)

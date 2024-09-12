@@ -13,11 +13,16 @@
 
 ### Embeddings and Vector Databases (Pending Publication)
 
-* [Introduction to the Quadrant Vector Database - Part I](https://docs.google.com/document/d/e/2PACX-1vTzEvYPfzXxsJxvV3F4ZcueB5XS6hKIj231Ie6YFuNh4nOcpViM5XHbWGmiMAtMAUaSnniLPSCRYFWg/pub)
+#### Quadrant
+
+1. [Introduction to the Quadrant Vector Database - Part I](https://docs.google.com/document/d/e/2PACX-1vTzEvYPfzXxsJxvV3F4ZcueB5XS6hKIj231Ie6YFuNh4nOcpViM5XHbWGmiMAtMAUaSnniLPSCRYFWg/pub)
 * [Introduction to the Quadrant Vector Database - Part II](https://docs.google.com/document/d/e/2PACX-1vQL81-BonXf8I7uve30G7MONv1lrqn1GKzU7LtaSToBT3NjYgsMtlUeeVrLn2R6LJQ6tc0dXJ7miy5b/pub)
-* [Introduction to Chroma, the Vector Database – I](https://docs.google.com/document/d/e/2PACX-1vSHAw4YLy_ZKWeETLn44Ph3bB5zGnmkwFafcBxjV-72tPjiTWgHaXB4pa1Xs1Ic34bTPQg0RjbttIgb/pub)
-* [Introduction to Chroma, the Vector Database – II](https://docs.google.com/document/d/e/2PACX-1vSNRGgZWDWuiClfk0QxzDSbqKB_RUCK_40GGCWGM6G1u3ZlXcp8L2jrC_LwoRSlWY1aOexpG9VtsKWU/pub)
-* [Multimodal Embeddings in Chroma, the Vector Database](https://docs.google.com/document/d/e/2PACX-1vQAdQsuzRIYkoe6NZrK1SvDFly852gNhe1h3A-OguHQtKZs4SXw3bSKb9Qe_cpT1SeUBQca736owWkA/pub)
+
+#### Chroma
+
+1. [Introduction to Chroma, the Vector Database – I](https://docs.google.com/document/d/e/2PACX-1vSHAw4YLy_ZKWeETLn44Ph3bB5zGnmkwFafcBxjV-72tPjiTWgHaXB4pa1Xs1Ic34bTPQg0RjbttIgb/pub)
+1. [Introduction to Chroma, the Vector Database – II](https://docs.google.com/document/d/e/2PACX-1vSNRGgZWDWuiClfk0QxzDSbqKB_RUCK_40GGCWGM6G1u3ZlXcp8L2jrC_LwoRSlWY1aOexpG9VtsKWU/pub)
+1. [Multimodal Embeddings in Chroma, the Vector Database](https://docs.google.com/document/d/e/2PACX-1vQAdQsuzRIYkoe6NZrK1SvDFly852gNhe1h3A-OguHQtKZs4SXw3bSKb9Qe_cpT1SeUBQca736owWkA/pub)
 
 ### Using AI Tools
 

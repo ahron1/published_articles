@@ -11,7 +11,7 @@
 1. [AI Vectors Explained, Part 1: Image and Multimodal Embeddings](http://airbyte.com/blog/image-and-multimodal-embeddings)
 1. [AI Vectors Explained, Part 2: Word and Sentence Embeddings](https://airbyte.com/blog/word-and-sentence-embeddings)
 
-### Embeddings and Vector Databases (Pending Publication)
+### Vector Databases (Pending Publication)
 
 #### Quadrant
 

@@ -5,20 +5,21 @@
 ### AI Basics
 
 * [Generative vs Discriminative Models: Differences & Use Cases](https://www.datacamp.com/blog/generative-vs-discriminative-models)
+* [Understanding Superalignment: Aligning AI with Human Values](https://www.datacamp.com/blog/superalignment)
 
 ### Understanding Embeddings 
 
 1. [AI Vectors Explained, Part 1: Image and Multimodal Embeddings](http://airbyte.com/blog/image-and-multimodal-embeddings)
 1. [AI Vectors Explained, Part 2: Word and Sentence Embeddings](https://airbyte.com/blog/word-and-sentence-embeddings)
 
-### Vector Databases (Pending Publication)
+### Vector Databases 
 
 #### Quadrant
 
-1. [Introduction to the Quadrant Vector Database - Part I](https://docs.google.com/document/d/e/2PACX-1vTzEvYPfzXxsJxvV3F4ZcueB5XS6hKIj231Ie6YFuNh4nOcpViM5XHbWGmiMAtMAUaSnniLPSCRYFWg/pub)
-* [Introduction to the Quadrant Vector Database - Part II](https://docs.google.com/document/d/e/2PACX-1vQL81-BonXf8I7uve30G7MONv1lrqn1GKzU7LtaSToBT3NjYgsMtlUeeVrLn2R6LJQ6tc0dXJ7miy5b/pub)
+1. [The Fundamentals of Qdrant: Understanding the 6 Core Concepts](https://airbyte.com/blog/fundamentals-of-qdrant)
+1. [A Beginner's Guide to Qdrant: Installation, Setup, and Basic Operations](https://airbyte.com/tutorials/beginners-guide-to-qdrant)
 
-#### Chroma
+#### Chroma (Pending Publication)
 
 1. [Introduction to Chroma, the Vector Database – I](https://docs.google.com/document/d/e/2PACX-1vSHAw4YLy_ZKWeETLn44Ph3bB5zGnmkwFafcBxjV-72tPjiTWgHaXB4pa1Xs1Ic34bTPQg0RjbttIgb/pub)
 1. [Introduction to Chroma, the Vector Database – II](https://docs.google.com/document/d/e/2PACX-1vSNRGgZWDWuiClfk0QxzDSbqKB_RUCK_40GGCWGM6G1u3ZlXcp8L2jrC_LwoRSlWY1aOexpG9VtsKWU/pub)
@@ -33,7 +34,7 @@
 * [How to Fine-tune a Hugging Face Transformer Model](https://docs.vultr.com/fine-tune-a-hugging-face-transformer-model-on-vultr-cloud-gpu) 
 * [How to Build an Inference API Using Hugging Face Transformers and FastAPI](https://docs.vultr.com/how-to-build-an-inference-api-using-hugging-face-transformers-and-fastapi)
 
-### Quantization of AI Models (Self Published)
+### Quantization of AI Models (Pending Publication)
 
 1. [Reducing the Size of AI Models](https://medium.com/@arunnanda/reducing-the-size-of-ai-models-4ab4cfe5887a)
 1. [Quantizing the Weights of AI Models](https://medium.com/@arunnanda/quantizing-the-weights-of-ai-models-39f489455194)
@@ -41,7 +42,9 @@
 1. [Different Approaches to Quantization](https://medium.com/@arunnanda/different-approaches-to-quantization-e3fac905bd5a)
 1. [Extreme Quantization: 1-bit AI Models](https://medium.com/@arunnanda/extreme-quantization-1-bit-ai-models-07169ee29d96)
 1. [Understanding 1-bit Large Language Models](https://medium.com/@arunnanda/understanding-1-bit-large-language-models-a33cc6acabb3)
-1. [Understanding 1.58-bit Large Language Models](https://medium.com/@arunnanda/understanding-1-58-bit-large-language-models-88373010974a)
+
+### Quantization of AI Models 
+1. [Understanding 1.58-bit Large Language Models](https://pub.towardsai.net/understanding-1-58-bit-large-language-models-88373010974a)
 
 ## PostgreSQL
 
@@ -77,6 +80,10 @@
 
 1. [Getting Started with Data Analysis in PostgreSQL](https://airbyte.com/blog/getting-started-with-data-analysis-in-postgresql) 
 1. [Advanced Data Analysis in PostgreSQL](https://airbyte.com/blog/advanced-data-analysis-in-postgresql) 
+
+### Applications
+
+* [What Is Fraud Analytics? Techniques, Workflows, and Tools](https://www.datacamp.com/blog/fraud-analytics) (non-technical article)
 
 ## Machine Learning
 

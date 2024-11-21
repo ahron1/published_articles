@@ -25,6 +25,10 @@
 1. [Introduction to Chroma, the Vector Database – II](https://docs.google.com/document/d/e/2PACX-1vSNRGgZWDWuiClfk0QxzDSbqKB_RUCK_40GGCWGM6G1u3ZlXcp8L2jrC_LwoRSlWY1aOexpG9VtsKWU/pub)
 1. [Multimodal Embeddings in Chroma, the Vector Database](https://docs.google.com/document/d/e/2PACX-1vQAdQsuzRIYkoe6NZrK1SvDFly852gNhe1h3A-OguHQtKZs4SXw3bSKb9Qe_cpT1SeUBQca736owWkA/pub)
 
+### Reinforcement Learning
+
+1. [Proximal Policy Optimization with PyTorch and Gymnasium](https://www.datacamp.com/tutorial/proximal-policy-optimization)
+
 ### Using AI Tools
 
 * [Implement Stable Diffusion with Keras and TensorFlow](https://www.vultr.com/de/docs/implement-stable-diffusion-with-keras-and-tensorflow/)
@@ -34,17 +38,16 @@
 * [How to Fine-tune a Hugging Face Transformer Model](https://docs.vultr.com/fine-tune-a-hugging-face-transformer-model-on-vultr-cloud-gpu) 
 * [How to Build an Inference API Using Hugging Face Transformers and FastAPI](https://docs.vultr.com/how-to-build-an-inference-api-using-hugging-face-transformers-and-fastapi)
 
-### Quantization of AI Models (Pending Publication)
+### Quantization of AI Models 
+1. [Reducing the Size of AI Models](https://towardsdatascience.com/reducing-the-size-of-ai-models-4ab4cfe5887a)
+1. [Quantizing the Weights of AI Models](https://towardsdatascience.com/quantizing-the-weights-of-ai-models-39f489455194)
+1. [Quantizing Neural Network Models](https://towardsdatascience.com/quantizing-neural-network-models-8ce49332f1d3)
+1. [Understanding 1.58-bit Large Language Models](https://pub.towardsai.net/understanding-1-58-bit-large-language-models-88373010974a)
 
-1. [Reducing the Size of AI Models](https://medium.com/@arunnanda/reducing-the-size-of-ai-models-4ab4cfe5887a)
-1. [Quantizing the Weights of AI Models](https://medium.com/@arunnanda/quantizing-the-weights-of-ai-models-39f489455194)
-1. [Quantizing Neural Network Models](https://medium.com/@arunnanda/quantizing-neural-network-models-8ce49332f1d3)
+### Quantization of AI Models (Pending Publication)
 1. [Different Approaches to Quantization](https://medium.com/@arunnanda/different-approaches-to-quantization-e3fac905bd5a)
 1. [Extreme Quantization: 1-bit AI Models](https://medium.com/@arunnanda/extreme-quantization-1-bit-ai-models-07169ee29d96)
 1. [Understanding 1-bit Large Language Models](https://medium.com/@arunnanda/understanding-1-bit-large-language-models-a33cc6acabb3)
-
-### Quantization of AI Models 
-1. [Understanding 1.58-bit Large Language Models](https://pub.towardsai.net/understanding-1-58-bit-large-language-models-88373010974a)
 
 ## PostgreSQL
 

@@ -4,6 +4,7 @@
 
 ### Reinforcement Learning
 
+1. [Reinforcement Learning with Gymnasium: A Practical Guide](https://www.datacamp.com/tutorial/reinforcement-learning-with-gymnasium)
 1. [Proximal Policy Optimization with PyTorch and Gymnasium](https://www.datacamp.com/tutorial/proximal-policy-optimization)
 
 ### Series on Quantization of AI Models 
@@ -87,6 +88,7 @@
 ### Applications
 
 * [What Is Fraud Analytics? Techniques, Workflows, and Tools](https://www.datacamp.com/blog/fraud-analytics) (non-technical article)
+* [Self-Organizing Maps: An Intuitive Guide with Python Examples](https://www.datacamp.com/tutorial/self-organizing-maps)
 
 ## Machine Learning
 

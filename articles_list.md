@@ -38,6 +38,7 @@
 
 ### Using AI Tools
 
+* [Azure OpenAI: A Step-by-Step Getting Started Guide](https://www.datacamp.com/tutorial/azure-openai)
 * [Implement Stable Diffusion with Keras and TensorFlow](https://www.vultr.com/de/docs/implement-stable-diffusion-with-keras-and-tensorflow/)
 * [Text Guided Image to Image Generation with Stable Diffusion](https://www.vultr.com/de/docs/text-guided-image-to-image-generation-with-stable-diffusion/)
 * [How to Use Gradient Accumulation to Overcome GPU Memory Limitations](https://www.vultr.com/docs/how-to-use-gradient-accumulation-to-overcome-gpu-memory-limitations/)

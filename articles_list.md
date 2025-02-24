@@ -5,8 +5,9 @@
 ### Reinforcement Learning
 
 1. [Reinforcement Learning with Gymnasium: A Practical Guide](https://www.datacamp.com/tutorial/reinforcement-learning-with-gymnasium)
-1. [Proximal Policy Optimization with PyTorch and Gymnasium](https://www.datacamp.com/tutorial/proximal-policy-optimization)
 1. [Getting Started with TorchRL for Deep Reinforcement Learning](https://www.datacamp.com/tutorial/torchrl)
+1. [Policy Gradient Theorem Explained: A Hands-On Introduction](https://www.datacamp.com/tutorial/policy-gradient-theorem)
+1. [Proximal Policy Optimization with PyTorch and Gymnasium](https://www.datacamp.com/tutorial/proximal-policy-optimization)
 
 ### Series on Quantization of AI Models 
 1. [Reducing the Size of AI Models](https://towardsdatascience.com/reducing-the-size-of-ai-models-4ab4cfe5887a)

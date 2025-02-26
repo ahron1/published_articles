@@ -46,6 +46,7 @@
 * [How to Use Hugging Face Transformer Models](https://docs.vultr.com/how-to-use-hugging-face-transformer-models-on-vultr-cloud-gpu)
 * [How to Fine-tune a Hugging Face Transformer Model](https://docs.vultr.com/fine-tune-a-hugging-face-transformer-model-on-vultr-cloud-gpu) 
 * [How to Build an Inference API Using Hugging Face Transformers and FastAPI](https://docs.vultr.com/how-to-build-an-inference-api-using-hugging-face-transformers-and-fastapi)
+* [Amazon Lex Tutorial: A Beginner's Guide to AI Chatbots](https://www.datacamp.com/tutorial/amazon-lex)
 
 ### AI Basics
 
